@@ -1,0 +1,37 @@
+{
+  "name": "twlv-call",
+  "version": "1.0.0",
+  "description": "twlv call lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twlv/twlv-call.git"
+  },
+  "keywords": [
+    "twlv",
+    "call",
+    "webrtc"
+  ],
+  "author": "Ganesha <reekoheek@gmail.com> (http://sagara.id)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twlv/twlv-call/issues"
+  },
+  "homepage": "https://github.com/twlv/twlv-call#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.4.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-config-xinix": "^1.1.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-standard": "^3.1.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
